@@ -10,3 +10,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+integer program i hate uu 
